@@ -115,8 +115,8 @@ form .input-box .input-field:valid+.placeholder{
     outline: none;
     border-radius: 4px;
     cursor: pointer;
-    transition: all .5s;
+    transition: all .3s;
 }
 .sign-in:hover{
-    box-shadow:  0 2px 5px #3498db;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.332),rgba(0, 0, 0, 0.332));
 }
